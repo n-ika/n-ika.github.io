@@ -12,11 +12,11 @@
 }
 
 .site-title {
-  @include relative-font-size(2.7);
-  @import url(//fonts.googleapis.com/css?family=Hind);
-  font-family: Hind;
+  @include relative-font-size(3.7);
+  @import url(//fonts.googleapis.com/css?family=Italiana&subset=latin,latin-ext);
+  font-family: Italiana!important;
   font-weight: 300;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   margin-top: 5%;
   margin-bottom: 0;
   float: left;
@@ -32,8 +32,8 @@
 }
 
 .site-nav {
-  @import url(//fonts.googleapis.com/css?family=Italiana);
-  font-family: Italiana;
+  @import url(//fonts.googleapis.com/css?family=Italiana&subset=latin,latin-ext);
+  font-family: Italiana!important;
   @include relative-font-size(1.5);
   position: absolute;
   top: 9px;
@@ -245,7 +245,7 @@
 .post-content h1 {
   @include relative-font-size(2.625);
   @import url(//fonts.googleapis.com/css?family=Italiana&subset=latin,latin-ext);
-  font-family: Italiana;
+  font-family: Italiana!important;
   letter-spacing: -1px;
   line-height: 1;
 
