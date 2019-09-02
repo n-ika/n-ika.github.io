@@ -12,14 +12,14 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ njurov@umd.edu }}">{{ site.email }}</a></li>
+            <li>{{ site.email }}</li>
             {%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col one-half">
-        {%- if site.adress -%}
-              {{ site.adress | escape }}
+        {%- if site.address -%}
+              {{ site.address | escape }}
         {%- endif -%}
       </div>
     </div>

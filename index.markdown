@@ -2,7 +2,14 @@
 layout: home
 ---
 
-**Dobrodošli!** Welcome!
+
+<h1 class="post-title">Pozdravljeni! <font color='#d1d1d1'>Welcome!</font>
+</h1>
+<br>
+
+---
+
+<br>
 
 I am Nika, a first year PhD student at [UMD](https://umd.edu/) in the [Linguistics department](https://ling.umd.edu/), supervised by [Naomi Feldman](http://users.umiacs.umd.edu/~nhf/) and [Bill Idsardi](https://idsardi.wordpress.com/).
 

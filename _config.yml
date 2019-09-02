@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://n-ika.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  n-ika
+address: 1417E Marie Mount Hall, University of Maryland, College Park MD 20742, USA
 
 # Build settings
 theme: minima
