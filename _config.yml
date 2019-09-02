@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nika Jurov
-email: njurov@umd.edu
+email: njurov [AT] umd [DOT] edu
 description: >- # this means to ignore newlines until "baseurl:"
-adress: 1417E Marie Mount Hall, University of Maryland, College Park MD 20742
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://n-ika.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
