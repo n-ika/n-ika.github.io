@@ -13,7 +13,7 @@
 
 .site-title {
   @include relative-font-size(2.7);
-  @import url(fonts.googleapis.com/css?family=Italiana);
+  @import url(//fonts.googleapis.com/css?family=Italiana);
   font-family: "Italiana";
   font-weight: 300;
   letter-spacing: 3px;
@@ -32,7 +32,7 @@
 }
 
 .site-nav {
-  @import url(fonts.googleapis.com/css?family=Italiana);
+  @import url(//fonts.googleapis.com/css?family=Italiana);
   font-family: "Italiana";
   @include relative-font-size(1.5);
   position: absolute;
@@ -244,7 +244,7 @@
 .post-title,
 .post-content h1 {
   @include relative-font-size(2.625);
-  @import url(fonts.googleapis.com/css?family=Italiana&subset=latin,latin-ext);
+  @import url(//fonts.googleapis.com/css?family=Italiana&subset=latin,latin-ext);
   font-family: "Italiana";
   letter-spacing: -1px;
   line-height: 1;
