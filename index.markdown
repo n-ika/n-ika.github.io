@@ -14,7 +14,7 @@ I am Nika, a third year PhD student at [UMD](https://umd.edu/) in the [Linguisti
 
 <br>
 
-My broad academic interest is in understanding *how* sound perception happens. This interest comes from the fact that we, humans, are quite good at understanding (and learning) speech, despite the fact that the signal that carries it is extremely variable and may be mixed with other sounds that are not the speech we care about that instant. I use computational models to describe mechanisms that intelligently discern the information encoded in the sound signal, just like we humans do daily, without ever worrying about it.
+My broad academic interest is in understanding *how* sound perception happens. This interest comes from the fact that we, humans, are quite good at understanding (and learning) speech. However, the signal carrying it is extremely variable and may be mixed with other sounds that are not the speech we care about that instant. I use computational models to describe mechanisms that intelligently discern the information encoded in the sound signal, just like we humans do daily, without ever worrying about it. By using models as my research tool, I am building an artificial part of a listener. Evaluating how well this approximates real living beings brings us closer to understanding cognitive mechanisms.
 
 <br>
 

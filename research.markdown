@@ -28,6 +28,7 @@ To do this, we are describing efficient neural processing that takes as input a 
 <br>
 
 # **Prior**
+<br>
 
 *My **Master Thesis** was modelling non native speech perception and comparing it to human performance. The main idea behind was to explore where the mis-perception of non native speech sounds happen.*
 
