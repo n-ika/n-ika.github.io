@@ -5,9 +5,9 @@ permalink: /Teaching/
 ---
 <br>
 
-I am currently (Fall 2021) a teaching assistant for LING321 - Phonology I, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
+I am not teaching this semester.
 
-My regular office hours are **Wednesdays 9.00-11.00AM**. Students can always write to me to arrange a more suitable time. Please specify in advance whether you'd like a zoom or in person meeting.
+Previously, I was a teaching assistant for LING321 - Phonology I (Fall 2021) and for LING330 (Spring 2022) - Historical Linguistics, both taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
 
 Some useful links: 
 

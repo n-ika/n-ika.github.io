@@ -7,4 +7,4 @@ permalink: /CV/
 ---
 
 <br>
-My full CV will appear here soon!
+Find my CV [here](https://media.githubusercontent.com/media/n-ika/n-ika.github.io/master/Jurov_CV.pdf).
