@@ -7,9 +7,13 @@ permalink: /Teaching/
 
 I am not teaching this semester.
 
-Previously, I was a teaching assistant for LING321 - Phonology I (Fall 2021) and for LING330 (Spring 2022) - Historical Linguistics, both taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
+Previously, I was a teaching assistant for:
+* LING330 - Historical Linguistics (Spring 2022), taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/);
+* LING321 - Phonology I (Fall 2021) , taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
 
-Some useful links: 
+<br>
+
+Some links for students I have found useful during my teaching: 
 
 * Easy intro video to [auditory illusions](https://www.youtube.com/watch?v=KP9HFcK6YOM)
 * Tools similar to Praat: [WaveSurfer](https://sourceforge.net/projects/wavesurfer/), [Audacity](https://www.audacityteam.org/)

@@ -18,7 +18,7 @@ This project is aiming to show that perception is extremely flexible: we can pul
 
 II) **Recognizing repetitive yet not neccessarily identical patterns**
 
-Thomas Schatz and I are aiming in this project to describe an automatic, low-level mechanism of recognizing repetitive sounds by either adults, infants or animals. Our goal is to show that such a mechanism can be at play in various seemingly unrelated effects observed by prior research: white noise memory effects, compressed speech recognition, MMN effects, potentially infant sound learning (memory of words, syllable repetition and more). In all these, repetition of sounds is recognized by the brain, even when the inputs have no content (white noise), when the listeners are not consciously aware of it (MMN) or they do not speak the language yet (infant word memory).
+Thomas Schatz and I are aiming to describe an automatic, low-level mechanism of recognizing repetitive sounds by either adults, infants or animals. Our goal is to show that such a mechanism can be at play in various seemingly unrelated effects observed by prior research: white noise memory effects, compressed speech recognition, MMN effects, potentially infant sound learning (memory of words, syllable repetition and more). In all these, repetition of sounds is recognized by the brain, even when the inputs have no content (white noise), when the listeners are not consciously aware of it (MMN) or they do not speak the language yet (infant word memory).
 
 To do this, we are describing efficient neural processing that takes as input a continuous signal with local time dependencies, spatializes a small chunk of the signal (i.e. 300ms) and given that predicts the input at the following time step. The combination of the spatialization and prediction is done by reservoir and predictive coding mechanisms.
 
@@ -34,12 +34,8 @@ To do this, we are describing efficient neural processing that takes as input a 
 
 Jurov, N. (2019). Phonetics or Phonology? Modelling Non-Native Perception (Unpublished Master thesis). University of Paris, Paris, France. [https://github.com/n-ika/abx_test_strut/blob/master/jurov_memoire.pdf](https://github.com/n-ika/abx_test_strut/blob/master/jurov_memoire.pdf)
 
-<span style="font-size:0.8em;">Perceptual differences of non native speech have been discussed extensively in the literature before. In order to shed a light on where the mis-perception occurs (phonetic/low-level or phonology/higher cognitive level), I used several models and compared them to human performance. I used an ABX discrimination task of non words (either English or French possible CVCs) on French and English natives and I was looking for a native language influence in non native speech perception. I found out that unsupervised model (k-means clustering) shows some native language effect, while the supervised model (ASR - kaldi) does not. Both are outperformed by the acoustic baseline (MFCC vectors distance predictions). Overall, the best fit for human performance seem to be the universal phonetic transcriber - bottleneck features distances predictions, which have the highest accuracy in the ABX task and improve the k-means clustering results.</span>
+<span style="font-size:1em;">Perceptual differences of non native speech have been discussed extensively in the literature before. In order to shed a light on where the mis-perception occurs (phonetic/low-level or phonology/higher cognitive level), I used several models and compared them to human performance. I used an ABX discrimination task of non words (either English or French possible CVCs) on French and English natives and I was looking for a native language influence in non native speech perception. I found out that unsupervised model (k-means clustering) shows some native language effect, while the supervised model (ASR - kaldi) does not. Both are outperformed by the acoustic baseline (MFCC vectors distance predictions). Overall, the best fit for human performance seem to be the universal phonetic transcriber - bottleneck features distances predictions, which have the highest accuracy in the ABX task and improve the k-means clustering results.</span>
 
 <br>
-
-*A part of my thesis is incorporated in the following article, presented at the CogSci 2019:*
-
-Millet, J., Jurov, N., & Dunbar, E. (2019, June 16). Comparing unsupervised speech learning directly to human performance in speech perception. [https://doi.org/10.31234/osf.io/ake47](https://doi.org/10.31234/osf.io/ake47)
 
 ---

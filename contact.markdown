@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Contact
-permalink: /Contact/
+title: Publications
+permalink: /Publications/
 ---
 
 <br>
 
-**Write to me at**: njurov [AT] umd [DOT] edu
-
-**Find me here**: [1407A Marie Mount Hall, University of Maryland, College Park MD 20742, USA](https://goo.gl/maps/nMRofdFYrQJiKGU87)
+Millet, J., Jurov, N., & Dunbar, E. (2019, June 16). Comparing unsupervised speech learning directly to human performance in speech perception. [https://doi.org/10.31234/osf.io/ake47](https://doi.org/10.31234/osf.io/ake47)
