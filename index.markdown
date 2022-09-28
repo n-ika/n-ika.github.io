@@ -19,4 +19,4 @@ My broad academic interest is in understanding *how* sound perception happens. T
 My Master's degrees are in French Studies and Comparative Literature at the [Faculty of Arts in University of Ljubljana, Slovenia](http://www.linguist.univ-paris-diderot.fr/) and in [Linguistics (Phonetics and Phonology) in University of Paris, France](http://www.linguist.univ-paris-diderot.fr/), where I was advised by [Ewan Dunbar](http://www.linguist.univ-paris-diderot.fr/~edunbar/). My work there was focused on modelling non native speech perception.
 <br>
 
-Outside of research, I enjoy nature, travel, I teach yoga and know way too much about .
+<!-- Outside of research, I enjoy nature, travel, I teach yoga and know way too much about . -->
