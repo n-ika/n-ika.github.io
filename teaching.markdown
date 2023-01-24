@@ -5,7 +5,7 @@ permalink: /Teaching/
 ---
 <br>
 
-This semester, I am teaching LING449N, scheduled Tue/Thu at 12.15-1.45PM. Students will find all the information on ELMS.
+This semester, I am teaching LING449N (seminar on speech perception modeling), scheduled Tue/Thu at 12.15-1.45PM. Students will find all the information on ELMS.
 
 Previously, I was a teaching assistant for:
 * LING330 - Historical Linguistics (Spring 2022), taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/);
