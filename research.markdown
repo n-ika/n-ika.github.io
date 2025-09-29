@@ -8,9 +8,10 @@ permalink: /Research/
 
 # **Current**
 <br>
-I) **Strategy of internal noise manipulation**
 
-This work is done with Naomi Feldman and Bill Idsardi. We are modeling a potential mechanism that describes how listeners focus on reliable parts of the speech signal, while they ignore whatever is irrelevant in that moment. Speech carries redudant information (cues) pointing to linguistics units we are looking for in the signal. However, at any given moment, there may be noise or uncertainty present about how reliable these cues are. To maximize the information rate we are getting from the signal, we are proposing an internal perceptual strategy. For robust perception, listeners internally allow the unreliable parts of the signal to become so uncertain that they become irrelevant and focus only the reliable parts.
+I) **Adaptation through focus and switch mechanisms**
+
+This doctoral work was advised by Naomi Feldman and Bill Idsardi. The aim was to model a potential mechanism of adaptation in listening to speech in noise. This mechanism describes how listeners focus on reliable parts of the speech signal, while they ignore whatever is irrelevant in that moment. Speech carries redudant information (cues) pointing to linguistics units we are looking for in the signal. However, at any given moment, there may be noise or uncertainty present about how reliable these cues are. To maximize the information rate we are getting from the signal, we are proposing an internal perceptual strategy that focuses on the reliable parts of speech (cues) at any specific moment. For robust perception, listeners internally allow the unreliable parts of the signal to become so uncertain that they become irrelevant and focus only the reliable parts.
 
 This project is aiming to show that perception is extremely flexible: we can pull relevant information out of the speech signal, despite any present noise, by internal adaptation that is guided by our statistical knowledge of speech sounds. 
 
@@ -23,6 +24,10 @@ Thomas Schatz and I are aiming to describe an automatic, low-level mechanism of 
 To do this, we are describing efficient neural processing that takes as input a continuous signal with local time dependencies, spatializes a small chunk of the signal (i.e. 300ms) and given that predicts the input at the following time step. The combination of the spatialization and prediction is done by reservoir and predictive coding mechanisms.
 
 <br>
+
+III) **Bat's Echolocation Perception Modeling**
+
+In collaboration with Jochen Triesch and Julio Hechavarria. Bats rely heavily on their echolocation to navigate. Their auditory cells have been shown to be sensitive to many auditory cues of the echolocation calls in experimental setups. Their neural cells are sentitive to specific frequency ranges, as well as to durations of the calls and also to delays between the calls. Our aim has been to build a simple neural network as we can (specifically, an auto encoder) that encodes real bat echolocation calls. We can then inspect the model to see if the model is sensitive to the same auditory cues as the real bat. To obtain similar auditory cue sensitivity, we propose some architectural adjustments that likely happen in the brain. Namely, those involve propagating information from one neuron to the next, where depth naturally makes a neuron more complex. Additionally, we combine information of neurons sensitive to low frequency and neurons sensitive to obtain neurons sensitive to both frequency ranges. With this, we mimic passive auditory perception of a brain tuned to highly specific calls that help the bat navigate and forage.
 
 ---
 <br>

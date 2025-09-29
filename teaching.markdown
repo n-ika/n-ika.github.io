@@ -7,11 +7,21 @@ permalink: /Teaching/
 
 I am currently not teaching.
 
-Last semester (Spring 2023), I was teaching LING449N, a seminar on speech perception modeling. 
+In Winter 2026:
+* LING 407/LING 507 (Seminar on speech perception)
+* LING 411/LING 511 (Phonetics)
 
-Previously, I was a teaching assistant for:
-* LING330 - Historical Linguistics (Spring 2022), taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/);
-* LING321 - Phonology I (Fall 2021) , taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
+In Spring 2026:
+* LINGXXX (Seminar)
+
+Course pages will be available to students taking the classes.
+
+<br>
+
+Previously, at University of Maryland:
+* LING449N - Upper Undergraduate Seminar (Spring 2023) - speech perception modeling
+* LING330 - Historical Linguistics (Spring 2022) - TA, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/);
+* LING321 - Phonology I (Fall 2021) - TA, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
 
 <br>
 
