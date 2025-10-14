@@ -12,13 +12,11 @@ layout: home
 I am an assistant professor of [computational linguistics at University of Oregon](https://humanities.uoregon.edu/linguistics). 
 
 My broad academic interest is in understanding *how* sound perception happens. This interest comes from the fact that we, humans, are quite good at understanding (and learning) speech. However, the signal carrying it is extremely variable and complex, and often mixed with noise. I use methods from statistics, machine learning/artificial intelligence and neuroscience to describe psychological mechanisms that show how to efficiently extract the information encoded in the sound signal, just like we humans do daily, without ever worrying about it. By using models as my research tool, I am building an artificial part of a human mind with a goal of understanding the underlying and still unexplained cognitive mechanisms.
-
 <br>
 <hr />
 <br>
 
 I am looking for an undergraduate research assistant (starting whenever) -- please get in touch via email. I am also looking for a graduate student starting in Fall 2026 that would like to work in an intersection between cognitive science and artificial intelligence. Please see [the official UO Linguistics guidelines to apply to Linguistics program](https://humanities.uoregon.edu/linguistics/apply/graduate-admissions). 
-
 <br>
 <hr />
 <br>
