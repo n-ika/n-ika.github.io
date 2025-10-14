@@ -7,7 +7,7 @@ layout: home
 </h1>
 <br>
 
-<img img style="padding: 0px 20px 0px 0px;" align="left" width="250" src="nika.jpg"> 
+<img img style="padding: 0px 20px 0px 0px;" align="left" width="175" src="nika.jpg"> 
 
 I am an assistant professor of [computational linguistics at University of Oregon](https://humanities.uoregon.edu/linguistics). 
 
