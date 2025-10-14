@@ -15,11 +15,13 @@ My broad academic interest is in understanding *how* sound perception happens. T
 
 <br>
 <hr />
+<br>
 
 I am looking for an undergraduate research assistant, and a graduate student starting in Fall 2026 that would like to work in an intersection between cognitive science and artificial intelligence. Please see [the official UO Linguistics guidelines to apply to Linguistics program](https://humanities.uoregon.edu/linguistics/apply/graduate-admissions). 
 
 <br>
 <hr />
+<br>
 
 Previously, I spent a year in [Jochen Triesch's lab](https://www.fias.science/en/life-and-neurosciences/research-groups/jochen-triesch/) in collaboration with [Julio Hechavarria](https://www.julio-hechavarria.com/) in Frankfurt to computationally model active attention in bats. I completed my PhD in July 2024 at [University of Maryland](https://umd.edu/) in the [Linguistics department](https://ling.umd.edu/). My work was primarily advised by [Naomi Feldman](http://users.umiacs.umd.edu/~nhf/) and [Bill Idsardi](https://idsardi.wordpress.com/) on modeling processes of cue weighting in humans and machines. I have also continuously been working with [Thomas Schatz](https://thomas.schatz.cogserver.net/) on perceptual implicit memory of speech in infants and adults. 
 
