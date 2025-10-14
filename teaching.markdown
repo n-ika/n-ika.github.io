@@ -4,6 +4,8 @@ title: Teaching
 permalink: /Teaching/
 ---
 <br>
+---
+<br>
 
 I am currently not teaching.
 
@@ -17,12 +19,16 @@ In Spring 2026:
 Course pages will be available to students taking the classes.
 
 <br>
+---
+<br>
 
 **Previously, at University of Maryland:**
 * LING449N - Upper Undergraduate Seminar (Spring 2023) - speech perception modeling
 * LING330 - Historical Linguistics (Spring 2022) - TA, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/);
 * LING321 - Phonology I (Fall 2021) - TA, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
 
+<br>
+---
 <br>
 
 **Some links for students I have found useful during my teaching:**

@@ -5,6 +5,8 @@ permalink: /Research/
 ---
 
 <br>
+---
+<br>
 
 # **Current**
 <br>
@@ -29,6 +31,7 @@ III) **Bat's Echolocation Perception Modeling**
 
 In collaboration with Jochen Triesch and Julio Hechavarria. Bats rely heavily on their echolocation to navigate. Their auditory cells have been shown to be sensitive to many auditory cues of the echolocation calls in experimental setups. Their neural cells are sentitive to specific frequency ranges, as well as to durations of the calls and also to delays between the calls. Our aim has been to build a simple neural network as we can (specifically, an auto encoder) that encodes real bat echolocation calls. We can then inspect the model to see if the model is sensitive to the same auditory cues as the real bat. To obtain similar auditory cue sensitivity, we propose some architectural adjustments that likely happen in the brain. Namely, those involve propagating information from one neuron to the next, where depth naturally makes a neuron more complex. Additionally, we combine information of neurons sensitive to low frequency and neurons sensitive to obtain neurons sensitive to both frequency ranges. With this, we mimic passive auditory perception of a brain tuned to highly specific calls that help the bat navigate and forage.
 
+<br>
 ---
 <br>
 
