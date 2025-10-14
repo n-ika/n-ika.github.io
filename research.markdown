@@ -5,7 +5,7 @@ permalink: /Research/
 ---
 
 <br>
----
+<hr />
 <br>
 
 # **Current**
@@ -32,7 +32,7 @@ III) **Bat's Echolocation Perception Modeling**
 In collaboration with Jochen Triesch and Julio Hechavarria. Bats rely heavily on their echolocation to navigate. Their auditory cells have been shown to be sensitive to many auditory cues of the echolocation calls in experimental setups. Their neural cells are sentitive to specific frequency ranges, as well as to durations of the calls and also to delays between the calls. Our aim has been to build a simple neural network as we can (specifically, an auto encoder) that encodes real bat echolocation calls. We can then inspect the model to see if the model is sensitive to the same auditory cues as the real bat. To obtain similar auditory cue sensitivity, we propose some architectural adjustments that likely happen in the brain. Namely, those involve propagating information from one neuron to the next, where depth naturally makes a neuron more complex. Additionally, we combine information of neurons sensitive to low frequency and neurons sensitive to obtain neurons sensitive to both frequency ranges. With this, we mimic passive auditory perception of a brain tuned to highly specific calls that help the bat navigate and forage.
 
 <br>
----
+<hr />
 <br>
 
 # **Prior**
@@ -46,5 +46,3 @@ Jurov, N. (2019). Phonetics or Phonology? Modelling Non-Native Perception (Unpub
 <span>Perceptual differences of non native speech have been discussed extensively in the literature before. In order to shed a light on where the mis-perception occurs (phonetic/low-level or phonology/higher cognitive level), I used several models and compared them to human performance. I used an ABX discrimination task of non words (either English or French possible CVCs) on French and English natives and I was looking for a native language influence in non native speech perception. I found out that unsupervised model (k-means clustering) shows some native language effect, while the supervised model (ASR - kaldi) does not. Both are outperformed by the acoustic baseline (MFCC vectors distance predictions). Overall, the best fit for human performance seem to be the universal phonetic transcriber - bottleneck features distances predictions, which have the highest accuracy in the ABX task and improve the k-means clustering results.</span>
 
 <br>
-
----

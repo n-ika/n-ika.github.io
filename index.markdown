@@ -17,7 +17,7 @@ My broad academic interest is in understanding *how* sound perception happens. T
 <hr />
 <br>
 
-I am looking for an undergraduate research assistant, and a graduate student starting in Fall 2026 that would like to work in an intersection between cognitive science and artificial intelligence. Please see [the official UO Linguistics guidelines to apply to Linguistics program](https://humanities.uoregon.edu/linguistics/apply/graduate-admissions). 
+I am looking for an undergraduate research assistant (starting whenever) -- please get in touch via email. I am also looking for a graduate student starting in Fall 2026 that would like to work in an intersection between cognitive science and artificial intelligence. Please see [the official UO Linguistics guidelines to apply to Linguistics program](https://humanities.uoregon.edu/linguistics/apply/graduate-admissions). 
 
 <br>
 <hr />

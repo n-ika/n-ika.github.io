@@ -3,8 +3,9 @@ layout: page
 title: Teaching
 permalink: /Teaching/
 ---
+
 <br>
----
+<hr />
 <br>
 
 I am currently not teaching.
@@ -19,7 +20,7 @@ In Spring 2026:
 Course pages will be available to students taking the classes.
 
 <br>
----
+<hr />
 <br>
 
 **Previously, at University of Maryland:**
@@ -28,7 +29,7 @@ Course pages will be available to students taking the classes.
 * LING321 - Phonology I (Fall 2021) - TA, taught by [Peggy Antonisse](https://blog.umd.edu/peggyantonisse/).
 
 <br>
----
+<hr />
 <br>
 
 **Some links for students I have found useful during my teaching:**
