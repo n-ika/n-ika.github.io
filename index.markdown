@@ -25,10 +25,8 @@ I am looking for an undergraduate research assistant (starting whenever) -- plea
 
 Previously, I spent a year in [Jochen Triesch's lab](https://www.fias.science/en/life-and-neurosciences/research-groups/jochen-triesch/) in collaboration with [Julio Hechavarria](https://www.julio-hechavarria.com/) in Frankfurt to computationally model active attention in bats. I completed my PhD in July 2024 at [University of Maryland](https://umd.edu/) in the [Linguistics department](https://ling.umd.edu/). My work was primarily advised by [Naomi Feldman](http://users.umiacs.umd.edu/~nhf/) and [Bill Idsardi](https://idsardi.wordpress.com/) on modeling processes of cue weighting in humans and machines. I have also continuously been working with [Thomas Schatz](https://thomas.schatz.cogserver.net/) on perceptual implicit memory of speech in infants and adults. 
 
-<br>
-
 My Master's degrees are in French Studies and Comparative Literature at the [Faculty of Arts in University of Ljubljana, Slovenia](http://www.linguist.univ-paris-diderot.fr/) and in [Linguistics (Phonetics and Phonology) in University of Paris, France](http://www.linguist.univ-paris-diderot.fr/), where I was advised by [Ewan Dunbar](http://www.linguist.univ-paris-diderot.fr/~edunbar/). My work there was focused on modelling non native speech perception.
 
-<br>
+<!-- <br> -->
 
 <!-- Outside of research, I enjoy nature, travel, I teach yoga and know way too much about . -->
